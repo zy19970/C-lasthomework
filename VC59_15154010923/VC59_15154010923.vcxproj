@@ -202,7 +202,11 @@
     <None Include="res\VC5915154010923.rc2" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="res\1.bmp" />
+    <Image Include="res\1.png" />
+    <Image Include="res\2.bmp" />
     <Image Include="res\VC59_15154010923.ico" />
+    <Image Include="res\周宇 字体管家 汉仪篆书繁.png" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
